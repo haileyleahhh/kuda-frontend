@@ -1,6 +1,10 @@
 module.exports = {
   plugins: {
-    tailwindcss: {},
+    tailwindcss: {
+      fontfamily:{
+        Mulish :['Mulish','san-serif']
+      }
+    },
     autoprefixer: {},
   },
 }
