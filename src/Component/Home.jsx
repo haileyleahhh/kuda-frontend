@@ -1,6 +1,4 @@
-// import Logo from '../images/Logo.svg'
-// import Logo2 from '../images/Roundimg.svg'
-// import Dropdown from '../images/Dropdownarrows.svg'
+
 
 function Navbar( ) {
     
@@ -8,7 +6,7 @@ function Navbar( ) {
         <main className='font-Mulish'>
             <nav className='flex justify-between px-[4rem] border-b drop-shadow-lg items-center mt-2 py-2'>
                 <div className='flex items-center'>
-                    <button className='mx-3 text-[0.9rem] text-[#745895] pr-[4rem]'><a href="https://kuda.com/">Kuda Logo</a></button>
+                    
                     <button className='mx-3 text-[0.9rem] text-[#745895]'>Features</button>
                     <button className='flex mx-3 text-[0.9rem] text-[#745895]'>
                         <p>Business</p>
