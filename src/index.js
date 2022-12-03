@@ -4,12 +4,12 @@ import ReactDOM from 'react-dom/client';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 import './App.css';
-import Kudafeatures from './components/Kudafeatures'
+import Features from './Component/Features'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Kudafeatures />
+    <Features />
   </React.StrictMode>
 );
 
